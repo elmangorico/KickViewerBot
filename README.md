@@ -35,9 +35,6 @@ Need more help? Here's a video! https://youtu.be/eW4D6dCPYaw?si=2WmMzI7SuIS9NsCZ
 - New UI Coming Soon!
 - Paid Version Coming Soon!
 - Proxy Support Coming Soon!
-
-# The Future Of The Tool
-I have plans to make a paid version of the tool with improved functionality, better UI and better performance. I will also be actively updating the free tool to add new features and fix bugs or other issues that may come up with the script.
     
 ## Credit
 I do ask that anyone that uses this tool please leave the credits in the script, yes the script is open source but getting credit for something I made is just as cool as it being free to use. Thank You!
